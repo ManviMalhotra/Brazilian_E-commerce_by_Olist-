@@ -7,3 +7,6 @@ Its features allows viewing a sales process from multiple dimensions: lead categ
 ETL practices have been used to merge the two datasets. 
 Further Statistical Methods like Regression analysis, Lasso Regression, Chi-square test have been implemented to preict sales, find influential attributes, check relationship between independent variables respectively. 
 Additionaly I developed an interactive dashboard to identify new profitable marketing platforms for leading business segments using advanced Tableau practices.
+
+More About the Dataset: 
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
