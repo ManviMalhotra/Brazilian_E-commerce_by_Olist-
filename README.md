@@ -10,7 +10,7 @@ Its features allows viewing a sales process from multiple dimensions: lead categ
 
 ETL practices have been used to merge the two datasets. 
 
-Further Statistical Methods like Regression analysis, Lasso Regression, Chi-square test have been implemented to preict sales, find influential attributes, check relationship between independent variables respectively. 
+Further Statistical Methods like Regression analysis, Lasso Regression, Chi-square test have been implemented to predict sales, find influential attributes, check relationship between independent variables respectively. 
 
 Additionaly I developed an interactive dashboard to identify new profitable marketing platforms for leading business segments using advanced Tableau practices.
 
